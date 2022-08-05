@@ -1,10 +1,12 @@
 # Assembly
 
-x86_64 Linux Assembly
+### x86_64 Linux Assembly
 
 Packages required:
 
-nasm - the Netwide Assembler, a portable 80x86 assemblerld - The GNU linker (compiler)
+nasm - the Netwide Assembler, a portable 80x86 assembler
+
+ld - The GNU linker (compiler)
 
 ## hello.asm
 
